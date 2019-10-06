@@ -1,0 +1,25 @@
+body{
+    background: grey;
+}
+.all{
+    background: tomato;
+    display: flex;
+}
+.headind{
+    display: flex;
+    padding: 10px; 
+}
+.main{
+    display: flex;
+    padding: 10px;
+}
+.inner{
+    display: flex;
+    padding: 20px;
+    list-style-type: none;
+    color: azure;
+}
+.input{
+    display: flex;
+    padding: 10px;
+}

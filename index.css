@@ -1,0 +1,38 @@
+body{
+    background: rgb(210, 223, 223);
+}
+h1{
+    color: red;
+    border: 2px green solid;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#p1,#p2{
+    color: rgb(220, 220, 235);
+    font-size: 12px;
+    text-align: right;
+}
+div{
+    background: rgb(207, 43, 14);
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    color: azure;   
+}
+.ligne{
+    border-right: 5px solid rgb(210, 223, 223);
+    padding: 10px;
+    color: aliceblue;
+    
+}
+a:link{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-size: 100%;
+    color: black;
+    
+}

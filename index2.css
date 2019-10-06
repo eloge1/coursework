@@ -1,0 +1,33 @@
+.heading1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+.heading2{
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 40px 10px  30px  50px
+}
+.paragraph1{
+    color: blue;
+}
+.headborder{
+    border: 2px blue solid;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0     ;
+}
+li{
+    border: 5px red solid;
+}
+a{
+    display: block;
+    color: rgb(61, 61, 14);
+}
+a:hover{
+    background: 100% black;
+    color: white;
+}
