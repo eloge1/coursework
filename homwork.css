@@ -1,0 +1,19 @@
+body{
+    background: black;
+}
+.body{
+    background: rgb(151, 62, 62);
+    color: rgb(243, 234, 234);
+    display: flex;
+}
+.heading{
+    padding: 5px;
+    display: flex;
+}
+.link{
+    padding-block-end: 5px;
+    display: flex;
+}
+ul{
+    display: flex;
+}
